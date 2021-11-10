@@ -1,0 +1,4 @@
+Indicaciones generales del proyecto de fin de curso
+Foramr grupos de 3 personas
+Plantee el desarrollo de un proyecto web donde se haga uso de base de fatos
+
